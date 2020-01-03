@@ -10,7 +10,7 @@ Screenshot on the program:
 Windows & OS X:
 
 ```sh
-Windows: Install the Augore Install.msi
+Windows: Install the Augore Install.msi file 
 ```
 ```sh
 OS X: Will cone soon! Stay Tune
