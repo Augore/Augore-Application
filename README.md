@@ -1,5 +1,5 @@
 # Augore
-> Short blurb about what Augore can doe.
+> Short blurb about what Augore can do.
 
 Screenshot on the program:
 
